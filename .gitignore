@@ -1,0 +1,9 @@
+build/
+build/*
+.vscode/
+.vscode/*
+screenshot.png
+resources/utils_and_scripts/cmp_images.ipynb
+resources/objects/reef/reef_model.obj
+resources/objects/funny/HARD_AF.mtl
+resources/objects/funny/HARD_AF.obj
